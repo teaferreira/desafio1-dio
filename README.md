@@ -1,2 +1,2 @@
-# desafio1-dio
+# Repositório do desafio1-dio
 Desafio de Projeto GIT/GITHUB
