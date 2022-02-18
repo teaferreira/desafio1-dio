@@ -26,5 +26,4 @@ GIT INIT - inicia um repositório dentro de um diretório (pasta)
 
 - É importante lembrar a sequência de upload ou download de um repositório DE ou PARA GitHub (repositório remoto), assim como o procedimento para atualizar os respectivos repositórios (local/remoto) após modificações. 
   Para download do repositório remoto para a máquina local utiliza-se o comando "git clone" e logo após se insere o link (HTTPS ou SSH - se já tiver configurado a chave SSH) . 
-  Após feitas modificações, para "enviar estas modificações de volta ao repositório remoto" as mesmas precisam ser comitadas através dos comandos "git add" e "git commit".
-- ​
+  Após feitas modificações, para "enviar estas modificações de volta ao repositório remoto", primeiro as mesmas precisam ser comitadas através dos comandos "git add" e "git commit". Finalmente, através do comando "git push"​ (git push origin main/master), enviamos as alterações para o repositóio remoto.
