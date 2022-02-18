@@ -13,7 +13,7 @@ Basic Syntax Mark Down: https://www.markdownguide.org/basic-syntax/
 cd = change directory - navega entre as pastas     **/**          =
 
 dir = directory - lista o que há dentro do diretório (uma pasta determinada)       **/**         ls
-quando usada a flag *"-a"* lista também os arquivos ocultos
+*quando usada a flag "-a" lista também os arquivos ocultos*
 
 mk dir = make directory - cria pastas          **/**          =
 
