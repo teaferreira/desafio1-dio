@@ -8,22 +8,22 @@ Basic Syntax Mark Down: https://www.markdownguide.org/basic-syntax/
 
 - Comandos básicos GIT: 
 
-  WINDOWS                                                                                                                                      LINUX
+  WINDOWS    **/**     LINUX
 
-cd = change directory - navega entre as pastas                                                                                  =
+cd = change directory - navega entre as pastas     **/**          =
 
-dir = directory - lista o que há dentro do diretório (uma pasta determinada)                               ls
+dir = directory - lista o que há dentro do diretório (uma pasta determinada)       **/**         ls
 quando usada a flag *"-a"* lista também os arquivos ocultos
 
-mk dir = make directory - cria pastas                                                                                                    =
+mk dir = make directory - cria pastas          **/**          =
 
-del = delete - deleta apenas arquivos dentro de uma pasta                                                            rm
+del = delete - deleta apenas arquivos dentro de uma pasta             **/**            rm
 
 rmdir = remove directory - deleta pastas
 
-cd .. = volta ao diretório anterior                                                                                                            =
+cd .. = volta ao diretório anterior             **/**            =
 
-cls = limpa a tela                                                                                                                     Clear (Ctrl + L)
+cls = limpa a tela              **/**              Clear (Ctrl + L)
 
 - ​
   GIT INIT - inicia um repositório dentro de um diretório (pasta)
